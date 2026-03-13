@@ -3,7 +3,7 @@
  * Copyright 2025 Jiamu Sun <barroit@linux.com>
  */
 
-import { vsc_add_cmd } from './helper/vsc.js'
+import { vsc_add_cmd } from './lib/vsc.js'
 
 const cmds = {
 	'make':            import('./cmd/make.js'),

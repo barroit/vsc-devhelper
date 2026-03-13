@@ -16,7 +16,7 @@ include([[package/cmd.json]])dnl
       ]
    },
    "displayName": "VSCDev",
-   "description": "Helpers for developing vscode extensions",
+   "description": "Command helper for developing extensions",
    "icon": "image/negi.png",
    "categories": [
       "Other"
